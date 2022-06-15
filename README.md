@@ -4,12 +4,12 @@ This project was created just for educational proposes.
 
 The code shows how to do automation using Python and Selenium.
 
-#Important: Educational Purposes Only
+# Important: Educational Purposes Only
 
-#Getting Started
+# Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-#Prerequisites
+# Prerequisites
 What things you need to install the software and how to install them
 
 Python 3.x
@@ -17,10 +17,10 @@ Geckodriver
 Firefox (you can use another browser)
 Some Python libraries following
 
-#Installing
+# Installing
 A step by step series of examples that tell you how to get a development env running
 
-#Install the following Python libraries:
+# Install the following Python libraries:
 requests2 - Requests is the only Non-GMO HTTP library for Python, safe for human consumption;
 pandas - A great Python Data Analysis Library;
 lxml - Library for processing XML and HTML;
@@ -32,19 +32,19 @@ pip install -r requirements.txt
 Geckodriver
 You can find install instructions in the official repository.
 
-#Running the code
+# Running the code
 python webscraping.py
 
-#Contributing
+# Contributing
 Feel free to submitting pull requests to us.
 
-#Authors
+# Authors
 Gagan Sharma - Initial work - Qualitest
 
-#License
+# License
 This project is licensed under the GNU General Public License.
 
-#Acknowledgments
+# Acknowledgments
 First steps in Python language
 Create simple and useful things
 Build content for to sharp your skills in python as well as selenium.
